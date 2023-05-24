@@ -1,4 +1,4 @@
-Index,CITY_ENG,expenditure,car_owener,parking,total_pop,net_inflow_pop,foreign_pop,net_migration,hh_member,assisted,land_total,land_house,land_farm,land unused,road_length,road_area,employee
+Index,CITY_ENG,expenditure,car_owner,parking,total_pop,net_inflow_pop,foreign_pop,net_migration,hh_member,assisted,land_total,land_house,land_farm,land unused,road_length,road_area,employee
 1,Chiyoda-ku,"63,456","31,715","18,349","66,680","794,656","2,814",387,1.79,577,"1,136.20",657.5,0,13.6,"175,508","2,787,768","31,065"
 2,Chuo-ku,"129,262","42,283","16,848","169,179","467,419","8,062",301,1.82,"1,029","1,045.30",459.4,0,37.7,"194,215","3,047,548","35,745"
 3,Minato-ku,"180,965","77,078","22,934","260,486","697,492","16,929",282,1.77,"1,727","2,098.50","1,266.80",0,57.7,"303,775","4,448,059","37,116"
